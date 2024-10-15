@@ -26,7 +26,7 @@ const PDFGenerator = () => {
             skills,
             image
         };
-        generatePDF(formData); // Call the PDF generator function and pass the data
+        generatePDF(formData); // call the pdf  generator func & pass  data
     };
 
     return (
